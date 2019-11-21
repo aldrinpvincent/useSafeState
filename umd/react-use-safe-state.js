@@ -1,5 +1,5 @@
 /*!
- * react-use-safe-state v1.0.0
+ * react-use-safe-state v1.0.0 - https://aldrinpvincent.github.io/useSafeState
  * MIT Licensed
  */
 (function webpackUniversalModuleDefinition(root, factory) {
