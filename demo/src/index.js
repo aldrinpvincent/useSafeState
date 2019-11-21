@@ -14,7 +14,8 @@ class Demo extends Component {
         <p>
           Hook to prevent setting state on unmounted component that prevents
           memory leaks that happens when setting state on unmounted components.
-          <a href="https://github.com/aldrinpvincent/useSafeState">GitHub Repository</a>
+          <a href="https://github.com/aldrinpvincent/useSafeState">GitHub Repository
+          </a>
 
         </p>
         <hr />
