@@ -20,6 +20,4 @@ import useSafeState from "react-use-safe-state";
 const [state, setState] = useSafeState(initalValue);
 ```
 
-
-https://img.shields.io/npm/dm/react-use-safe-state?style=flat-square
-
+![react-use-safe-state downloads per month](https://img.shields.io/npm/dm/react-use-safe-state?style=flat-square)
