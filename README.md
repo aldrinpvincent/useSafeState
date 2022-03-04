@@ -2,7 +2,7 @@
 
 Hook to prevent setting state on unmounted component that prevents memory leaks that happens when setting state on unmounted components.
 
-Demo - https://aldrinpvincent.github.io/useSafeState/
+
 
 ### Installation
 
@@ -20,6 +20,6 @@ import useSafeState from "react-use-safe-state";
 const [state, setState] = useSafeState(initalValue);
 ```
 
-[![Travis][build-badge]][build]
-[![npm package][npm-badge]][npm]
-[![Coveralls][coveralls-badge]][coveralls]
+
+https://img.shields.io/npm/dm/react-use-safe-state?style=flat-square
+
